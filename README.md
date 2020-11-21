@@ -1,5 +1,5 @@
-# Default WonderCMS theme
-Fully responsive.
+# Custom wonderCMS Theme for bilfri.dk
+Hopefully responsive.
 
 ## Preview
 ![Theme preview](/preview.jpg)
